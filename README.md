@@ -29,7 +29,7 @@ A simple way to track my progress without spreadsheets.
 ## Run It Locally
 
 ```bash
-git clone [your-repo-link]
+git clone [repo-link]
 cd job-hunt-co-pilot
 pip install -r requirements.txt
 python app.py
