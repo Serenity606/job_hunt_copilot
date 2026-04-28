@@ -30,6 +30,6 @@ A simple way to track my progress without spreadsheets.
 
 ```bash
 git clone [repo-link]
-cd job-hunt-co-pilot
+cd job_hunt_copilot
 pip install -r requirements.txt
 python app.py
